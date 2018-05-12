@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32833'
     url: http://www.gutenberg.org/2009/agents/32833
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27669#The-Johnstown-Horror-----13-of-the-Awful-Floods-and-Their-Appalling-Ruin
 gutenberg_issued: '2008-12-31'
 gutenberg_type: Text
 identifiers:
