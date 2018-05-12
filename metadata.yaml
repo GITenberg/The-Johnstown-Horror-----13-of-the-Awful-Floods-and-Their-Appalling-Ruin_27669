@@ -1,0 +1,25 @@
+_repo: The-Johnstown-Horror-----13-of-the-Awful-Floods-and-Their-Appalling-Ruin_27669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walker, James Herbert
+    gutenberg_agent_id: '32833'
+    url: http://www.gutenberg.org/2009/agents/32833
+description: ''
+gutenberg_issued: '2008-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Floods -- Pennsylvania -- Johnstown (Cambria County)'
+- !lcc 'F106'
+title: "The Johnstown Horror!!!\r\nor, Valley of Death, being A Complete and Thrilling\
+  \ Account\r\nof the Awful Floods and Their Appalling Ruin"
+url: http://www.gutenberg.org/ebooks/27669
